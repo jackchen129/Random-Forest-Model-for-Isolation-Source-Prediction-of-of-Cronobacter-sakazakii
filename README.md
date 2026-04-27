@@ -1,6 +1,6 @@
 # Random Forest Model for Isolation Source Prediction of *Cronobacter sakazakii* in the United States
 
-# Binary Source Prediction (Udder vs. Other)
+# Binary Source Prediction (Food vs. Clinical)
 
 This repository contains R scripts for predicting the isolation source (*Food* vs. *Clinical*) of *Cronobacter sakazakii* isolates in the United States using a random forest model trained on pan-genome gene presence/absence data.
 
